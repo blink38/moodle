@@ -9,5 +9,5 @@ Les cohortes sont alors créés depuis les données postgreSQL ainsi que les com
 La création des utilisateurs est simple, la gestion de l'authentification étant faite à travers un service SSO basé sur CAS Jasig.
 
 
-
+Ce module a été écrit en se basant sur le module déjà existant enrol_database.
 
